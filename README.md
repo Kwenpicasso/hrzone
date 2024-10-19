@@ -49,3 +49,7 @@ cd human-resources-landing-page
 
 npm install
 
+### 3.  Run the Application
+To start the development server and view the project locally, run:
+
+npm run dev
