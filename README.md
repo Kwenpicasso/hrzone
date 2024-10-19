@@ -9,7 +9,12 @@ Welcome to the **Human Resources Landing Page** repository! This project is a mo
 - **About Us Section**: Overview of the company’s culture, mission, and core values.
 - **Service Section**: Overview of the services offered by the HR team, such as recruitment, talent management, and employee development programs.
 - - **Footer Section**: Contains links to social media, contact information, and quick links to other sections of the site.
+  - 
+## Live Demo
 
+You can view the live version of the Human Resources Landing Page at the following URL:
+
+**[Live Demo Link](https://hrzone.vercel.app/)**
 ## Tech Stack
 
 - **Next.js**: Used to manage dynamic components, such as job listings and testimonials.
@@ -36,5 +41,5 @@ Before you begin, ensure you have the following tools installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/human-resources-landing-page.git
+git clone https://github.com/Kwenpicasso/hrzone.git
 cd human-resources-landing-page
