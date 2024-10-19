@@ -35,7 +35,7 @@ Before you begin, ensure you have the following tools installed:
 
 - **Node.js** (version 18 or higher)
 - **npm** (version 7 or higher)
-```bash
+
 ### Installation
 
 #### 1. Clone the Repository
