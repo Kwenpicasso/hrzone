@@ -8,8 +8,8 @@ Welcome to the **Human Resources Landing Page** repository! This project is a mo
 - **Hero Section**: A captivating hero section that highlights the company's mission and values.
 - **About Us Section**: Overview of the company’s culture, mission, and core values.
 - **Service Section**: Overview of the services offered by the HR team, such as recruitment, talent management, and employee development programs.
-- - **Footer Section**: Contains links to social media, contact information, and quick links to other sections of the site.
-  - 
+- **Footer Section**: Contains links to social media, contact information, and quick links to other sections of the site.
+  
 ## Live Demo
 
 You can view the live version of the Human Resources Landing Page at the following URL:
@@ -35,7 +35,7 @@ Before you begin, ensure you have the following tools installed:
 
 - **Node.js** (version 18 or higher)
 - **npm** (version 7 or higher)
-
+```bash
 ### Installation
 
 #### 1. Clone the Repository
