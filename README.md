@@ -43,3 +43,9 @@ Before you begin, ensure you have the following tools installed:
 ```bash
 git clone https://github.com/Kwenpicasso/hrzone.git
 cd human-resources-landing-page
+
+#### 2. Install Dependencies
+
+```bash
+npm install
+
