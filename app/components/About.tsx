@@ -20,7 +20,7 @@ const About = () => {
                 <CardTitle className='text-3xl lg:text-4xl font-semibold  text-center lg:text-start w-full lg:w-[60%]'>
                     Scale globally with velocity and ease
                 </CardTitle>
-                <CardTitle className='text-sm lg:text-base font-light w-full text-center lg:text-start md:w-[80%] mx-auto lg:w-[70%] text-gray-500'>
+                <CardTitle className='text-sm lg:text-base font-light w-full text-center lg:text-start md:w-[80%] lg:w-[70%] text-gray-500'>
                     DeelTalent is built to scale with organizations of all sizes, from small teams to enterprises of thousands. Whether you want to hire worldwide without opening legal entities, streamline HR for your global team, or pay all types of workers anywhere with consolidated payroll—Deel does it all with full compliance.
                 </CardTitle>
                 <ShimmerButton className="shadow-2xl mt-8 w-[50%] lg:mx-0 mx-auto">
